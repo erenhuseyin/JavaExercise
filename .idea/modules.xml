@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaBasicStudy/JavaBasicStudy.iml" filepath="$PROJECT_DIR$/JavaBasicStudy/JavaBasicStudy.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaExercise.iml" filepath="$PROJECT_DIR$/JavaExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaOptional/JavaOptional.iml" filepath="$PROJECT_DIR$/JavaOptional/JavaOptional.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaStream/JavaStream.iml" filepath="$PROJECT_DIR$/JavaStream/JavaStream.iml" />
     </modules>
   </component>

@@ -1,5 +1,10 @@
 package personsample;
 
+/*
+stream soruları kaynak
+https://www.codingame.com/playgrounds/20782/java-guild-meeting-52018/streams---micro-katas
+ */
+
 public class Person {
     private String name;
     private int age;

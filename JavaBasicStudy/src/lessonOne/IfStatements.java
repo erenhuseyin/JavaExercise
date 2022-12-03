@@ -1,3 +1,5 @@
+package lessonOne;
+
 import java.util.Scanner;
 
 public class IfStatements {

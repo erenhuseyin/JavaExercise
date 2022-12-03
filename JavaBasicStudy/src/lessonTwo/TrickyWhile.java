@@ -1,3 +1,5 @@
+package lessonTwo;
+
 public class TrickyWhile {
     public static void main(String[] args) {
 

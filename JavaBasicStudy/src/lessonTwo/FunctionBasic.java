@@ -1,5 +1,7 @@
 package lessonTwo;
 
+import java.util.Scanner;
+
 public class FunctionBasic {
 
     public static void main(String[] args) {
@@ -18,6 +20,12 @@ public class FunctionBasic {
         System.out.println(cube(4));
 
         System.out.println(graduateExam(6));
+
+        if(checkBusTicket()){
+            System.out.println("otobüse binebilirsiniz");
+        }else{
+            System.out.println("otobüse binemezsiniz");
+        }
 
 
     }
@@ -55,6 +63,25 @@ public class FunctionBasic {
         } else{
             return false;
         }
+    }
+
+    static boolean checkBusTicket(){
+        Scanner scanner = new Scanner(System.in);
+        String answer;
+
+        System.out.println("biletiniz var mı? [Y] [N]");
+        answer = scanner.next();
+
+        if(answer.equals("Y")){
+            return true;
+        }else {
+            System.out.println("abonmanınız var mı? [Y] [N]");
+            answer = scanner.next();
+            if(answer.equals("Y")){
+                return true;
+            }
+        }
+        return false;
     }
 
 

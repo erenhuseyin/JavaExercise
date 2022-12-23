@@ -34,6 +34,8 @@ public class PerpendicularTriangle {
             }
             System.out.println();
         }
+
+
     }
 
 

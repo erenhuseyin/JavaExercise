@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AdventureGameOop/AdventureGameOop.iml" filepath="$PROJECT_DIR$/AdventureGameOop/AdventureGameOop.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaBasicStudy/JavaBasicStudy.iml" filepath="$PROJECT_DIR$/JavaBasicStudy/JavaBasicStudy.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaExercise.iml" filepath="$PROJECT_DIR$/JavaExercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaOptional/JavaOptional.iml" filepath="$PROJECT_DIR$/JavaOptional/JavaOptional.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaStream/JavaStream.iml" filepath="$PROJECT_DIR$/JavaStream/JavaStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OopPlayground/OopPlayground.iml" filepath="$PROJECT_DIR$/OopPlayground/OopPlayground.iml" />
     </modules>
   </component>
 </project>

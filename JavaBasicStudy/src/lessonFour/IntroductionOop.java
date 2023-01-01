@@ -21,7 +21,7 @@ public class IntroductionOop {
     }
 
     public static void main(String[] args) {
-        RectangularPrism rectangular = new RectangularPrism();
+        RectangularPrism rectangular = new RectangularPrism(3,5,9);
         rectangular.width = 3;
         rectangular.height = 4;
         rectangular.depth = 5;

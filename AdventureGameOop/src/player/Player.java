@@ -65,11 +65,6 @@ public class Player {
         this.setMoney(unit.getMoney());
 
     }
-
-
-
-
-
     public int getDamage() {
         return damage;
     }
@@ -118,7 +113,5 @@ public class Player {
         this.inventory = inventory;
     }
 
-    void selectChar(){
 
-    }
 }
